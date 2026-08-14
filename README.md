@@ -79,5 +79,5 @@ book browsing, shopping cart, checkout and local data persistence.
 ## 📫 Connect With Me
 
 - GitHub: [@khanhnh2420](https://github.com/khanhnh2420)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+- LinkedIn: [Khanh Nguyen](https://www.linkedin.com/in/khanhnh2420/)
 - Email: your-email@example.com

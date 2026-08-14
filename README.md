@@ -1,4 +1,4 @@
-# Hi, I'm Nguyễn Hoàng Khanh 👋
+# Hi, I'm Khanh 👋
 
 ### Backend / Full-stack Developer
 
@@ -229,6 +229,7 @@ I focus on:
 
 - 💻 GitHub: [@khanhnh2420](https://github.com/khanhnh2420)
 - 📧 Email: [hoangkhanh2420@gmail.com](mailto:hoangkhanh2420@gmail.com)
+- 💼 LinkedIn: [Khanh Nguyen](https://www.linkedin.com/in/khanhnh2420/)
 - 📍 Ho Chi Minh City, Vietnam
 
 ---

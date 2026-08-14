@@ -225,6 +225,13 @@ I focus on:
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=khanhnh2420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=khanhnh2420&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=khanhnh2420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@khanhnh2420](https://github.com/khanhnh2420)

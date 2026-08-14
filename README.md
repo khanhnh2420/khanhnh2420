@@ -1,83 +1,236 @@
-# Hi, I'm Hoang Khanh 👋
+# Hi, I'm Nguyễn Hoàng Khanh 👋
 
-### Java Backend Developer
+### Backend / Full-stack Developer
 
-I'm a Computer Science graduate passionate about backend development,
-RESTful APIs, databases, and software architecture.
+I'm an Information Technology student at **University of Information Technology (UIT) – VNUHCM**, with a background in Software Application Development.
 
-I enjoy building backend systems and learning how to design
-reliable and scalable applications.
+I'm interested in **backend development, full-stack web development, and system design**, and I enjoy building RESTful APIs, working with databases, and learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Backend
-Java • Spring Boot • Spring MVC • Spring Data JPA • REST API • Maven
+- 🎓 B.Sc. in Information Technology — **University of Information Technology (UIT) – VNUHCM**
+- 💻 Software Application Development — **FPT Polytechnic**
+- 🚀 Interested in **Backend Development & Full-stack Development**
+- 🧩 Interested in **RESTful APIs, databases, authentication, and system design**
+- 🌱 Currently strengthening my backend development skills and learning new technologies
+- 📍 Ho Chi Minh City, Vietnam
+- 📫 Email: **hoangkhanh2420@gmail.com**
 
-### Database
-MySQL • MongoDB • Redis
+---
 
-### Tools
-Git • GitHub • Docker • Postman
+## 🛠️ Technical Skills
+
+### Backend & APIs
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- RESTful API
+- JWT
+- OOP
 
 ### Frontend
-React • JavaScript • React Native
+- React 19
+- Next.js
+- TypeScript
+- JavaScript
+- AngularJS
+- React Native
+- HTML / CSS
+- react-i18next
+
+### Database
+- MySQL
+- MongoDB
+- SQLite
+
+### Tools & Practices
+- Git / GitHub
+- Maven
+- Lombok
+- Redux Toolkit
+- Redux Persist
+- Axios
+- Agile / Scrum
+
+### Other
+- Gemini AI API
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 GamesVH
+### 🎮 GamesVH — Gaming E-commerce Platform
 
-**Gaming E-commerce Platform**
+**Java · Spring Boot · REST API · MySQL · AngularJS**
 
-`Java` `Spring Boot` `REST API` `MySQL`
+A full-stack gaming e-commerce platform built with Spring Boot REST APIs and an AngularJS frontend.
 
-A full-stack gaming e-commerce platform with authentication,
-product management, shopping cart, checkout, orders,
-coupons and admin dashboard.
+**Key features:**
+- User authentication
+- Product management
+- Wishlist
+- Shopping cart
+- Checkout and orders
+- Coupon management
+- Customer feedback
+- Blog management
+- Admin dashboard
+- Revenue statistics
 
-🔗 [Repository](https://github.com/khanhnh2420/GamesVH)
+**Architecture:**
+
+```text
+AngularJS Frontend
+        │
+        ▼
+   RESTful API
+        │
+        ▼
+   Controller
+        │
+        ▼
+    Service
+        │
+        ▼
+   Repository
+        │
+        ▼
+      MySQL
+```
+
+🔗 **[View Repository](https://github.com/khanhnh2420/GamesVH)**
 
 ---
 
-### 📚 LibraryDigital
+### 📚 LibraryDigital — Library Management Web Application
 
-**Library Management Web Application**
+**Node.js · Express.js · MongoDB · JWT**
 
-`Node.js` `Express.js` `MongoDB` `React` `Redux` `JWT`
+A library management web application with a RESTful backend for authentication and book management.
 
-A library management application implementing RESTful APIs,
-JWT authentication, book CRUD operations and MongoDB data management.
+**Key features:**
+- User registration and login
+- bcrypt password hashing
+- JWT access and refresh tokens
+- User roles and account status
+- Book CRUD operations
+- Search by book ID, ISBN, category, and author
+- Case-insensitive author search
+- Book availability filtering
+- MongoDB queries and aggregation
 
-🔗 [Repository](https://github.com/khanhnh2420/LibraryDigital)
+**Architecture:**
+
+```text
+React Frontend
+       │
+       ▼
+    Axios
+       │
+       ▼
+ Express Routes
+       │
+       ▼
+  Controllers
+       │
+       ▼
+    Models
+       │
+       ▼
+   MongoDB
+```
+
+🔗 **[View Repository](https://github.com/khanhnh2420/LibraryDigital)**
 
 ---
 
-### 📱 IE307_LTDNT_DA
+### 📱 LibraryDigital — Digital Bookstore Mobile Application
 
-**Digital Bookstore Mobile Application**
+**React Native · Expo · Redux Toolkit · REST API · SQLite**
 
-`React Native` `Expo` `Redux Toolkit` `SQLite` `REST API`
+A cross-platform mobile bookstore application developed with React Native and Expo.
 
-A cross-platform mobile bookstore application with authentication,
-book browsing, shopping cart, checkout and local data persistence.
+**Key features:**
+- User authentication
+- Book browsing
+- Shopping cart
+- Checkout
+- Profile management
+- REST API integration with Axios
+- Global state management with Redux Toolkit
+- Persistent authentication and cart state
+- Local SQLite storage
 
-🔗 [Repository](https://github.com/khanhnh2420/IE307_LTDNT_DA)
+**Architecture:**
+
+```text
+React Native / Expo
+        │
+        ├── Redux Toolkit
+        │
+        ├── Axios REST API
+        │
+        └── SQLite
+```
+
+🔗 **[View Repository](https://github.com/khanhnh2420/IE307_LTDNT_DA)**
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I'm Currently Focusing On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanhnh2420&show_icons=true&theme=tokyonight)
+My current interests are centered around backend engineering:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnh2420&layout=compact&theme=tokyonight)
+```text
+Java / Spring Boot
+        ↓
+RESTful API Design
+        ↓
+Database & Data Modeling
+        ↓
+Authentication & Authorization
+        ↓
+System Design
+        ↓
+Scalable Backend Systems
+```
+
+I'm also interested in expanding my knowledge of backend technologies and applying them through practical projects.
+
+---
+
+## 📈 Development Philosophy
+
+I focus on:
+
+- Writing maintainable and modular code
+- Understanding how systems work instead of only using frameworks
+- Designing clear API and database structures
+- Applying proper separation of responsibilities
+- Continuously improving through practical projects
+
+---
+
+## 🎯 Interests
+
+- Backend Development
+- Full-stack Web Development
+- System Design
+- RESTful API Development
+- Database Design
+- Learning New Technologies
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@khanhnh2420](https://github.com/khanhnh2420)
-- LinkedIn: [Khanh Nguyen](https://www.linkedin.com/in/khanhnh2420/)
-- Email: your-email@example.com
+- 💻 GitHub: [@khanhnh2420](https://github.com/khanhnh2420)
+- 📧 Email: [hoangkhanh2420@gmail.com](mailto:hoangkhanh2420@gmail.com)
+- 📍 Ho Chi Minh City, Vietnam
+
+---
+
+> **"Build. Learn. Improve. Repeat."**
